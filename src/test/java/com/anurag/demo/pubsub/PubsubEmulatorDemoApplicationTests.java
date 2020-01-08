@@ -1,4 +1,4 @@
-package nhartner.demo.pubsub;
+package com.anurag.demo.pubsub;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotNull;
@@ -17,6 +17,7 @@ import org.springframework.cloud.gcp.pubsub.support.AcknowledgeablePubsubMessage
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.util.concurrent.ListenableFuture;
 
+import com.anurag.demo.pubsub.PubsubEmulatorDemoApplication;
 import com.google.api.client.util.Value;
 import com.google.cloud.pubsub.v1.Publisher;
 import com.google.protobuf.ByteString;

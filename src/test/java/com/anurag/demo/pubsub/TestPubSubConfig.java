@@ -1,4 +1,4 @@
-package nhartner.demo.pubsub;
+package com.anurag.demo.pubsub;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;

@@ -8,7 +8,7 @@
         <version>2.1.3.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>nhartner.demo</groupId>
+    <groupId>anurag.demo</groupId>
     <artifactId>pubsub-emulator-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>pubsub-emulator-demo</name>
@@ -106,8 +106,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub nhartner Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/nhartner/pubsub-emulator-demo</url>
+            <name>GitHub anukumarrag Apache Maven Packages</name>
+            <url>https://github.com/anukumarrag/pubsub-emulator-demo</url>
         </repository>
     </distributionManagement>
 
